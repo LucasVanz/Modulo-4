@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2f5032e-ceb1-4e00-8ccb-b86c70ac04e3" name="Changes" comment="exercicio">
-      <change afterPath="$PROJECT_DIR$/src/Aula3/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula3/ex1/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula3/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula3/ex2/ProgramacaoFuncional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula4/Aula4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula4/ex1/Aula4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula4/ex1/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula4/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula4/ex2/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula4/Aula4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula3.ex2.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Aula3.ex1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula3.ex1.Main" />
       <module name="Modulo_4" />
@@ -71,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula4.ex1.Aula4" />
+      <module name="Modulo_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula4.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FusoHorarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula2.FusoHorarios" />
       <module name="Modulo_4" />
@@ -85,18 +98,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula1.Main" />
-      <module name="Modulo_4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Vacinas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula2.Vacinas" />
+      <option name="MAIN_CLASS_NAME" value="Aula4.ex2.Main" />
       <module name="Modulo_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula2.*" />
+          <option name="PATTERN" value="Aula4.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Aula4" />
         <item itemvalue="Application.Aula3.ex2.Main" />
         <item itemvalue="Application.Aula3.ex1.Main" />
         <item itemvalue="Application.FusoHorarios" />
-        <item itemvalue="Application.Vacinas" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695087844177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercicio">
+      <created>1695602697899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695602697899</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
