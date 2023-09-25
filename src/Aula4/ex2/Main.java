@@ -13,10 +13,8 @@ public class Main {
                 new Produto("Notebook", 2500.0)
         );
 
-       Optional<Produto> maisCaro = produtos.stream().max(Comparator.comparing(Produto::getPreco));
+       produtos.stream().max(Comparator.comparing(Produto::getPreco)).ifPresent(produto -> System.out.println(produto.getNome()));
 
-        if (maisCaro.isPresent()){
-            System.out.println(maisCaro.get().getNome());
-        }
+
     }
 }
