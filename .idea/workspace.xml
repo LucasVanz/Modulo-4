@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f5032e-ceb1-4e00-8ccb-b86c70ac04e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula1/EventosEspeciais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula1/Main.java" afterDir="false" />
+    <list default="true" id="d2f5032e-ceb1-4e00-8ccb-b86c70ac04e3" name="Changes" comment="exercicio">
+      <change afterPath="$PROJECT_DIR$/src/Aula3/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3/ex1/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3/ex2/ProgramacaoFuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula4/Aula4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,14 +37,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Aula3.ex2.Main">
+    <configuration name="Aula3.ex1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula3.ex1.Main" />
+      <module name="Modulo_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula3.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula3.ex2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula3.ex2.Main" />
+      <module name="Modulo_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula3.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FusoHorarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula2.FusoHorarios" />
+      <module name="Modulo_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula1.Main" />
       <module name="Modulo_4" />
@@ -53,8 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vacinas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula2.Vacinas" />
+      <module name="Modulo_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula3.ex2.Main" />
+        <item itemvalue="Application.Aula3.ex1.Main" />
+        <item itemvalue="Application.FusoHorarios" />
+        <item itemvalue="Application.Vacinas" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -68,6 +123,21 @@
       <option name="presentableId" value="Default" />
       <updated>1694822208704</updated>
     </task>
+    <task id="LOCAL-00001" summary="exercicio">
+      <created>1695074801727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695074801727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exercicio">
+      <created>1695087844177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695087844177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio" />
   </component>
 </project>
