@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2f5032e-ceb1-4e00-8ccb-b86c70ac04e3" name="Changes" comment="exercicio">
+      <change afterPath="$PROJECT_DIR$/src/Aula5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula5/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula4/ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula4/ex2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Aula5.Main">
     <configuration name="Aula3.ex1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula3.ex1.Main" />
       <module name="Modulo_4" />
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FusoHorarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula2.FusoHorarios" />
+    <configuration name="Aula5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula5.Main" />
       <module name="Modulo_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula2.*" />
+          <option name="PATTERN" value="Aula5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula5.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Aula4" />
         <item itemvalue="Application.Aula3.ex2.Main" />
         <item itemvalue="Application.Aula3.ex1.Main" />
-        <item itemvalue="Application.FusoHorarios" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695604830414</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exercicio">
+      <created>1695680886450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695680886450</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
