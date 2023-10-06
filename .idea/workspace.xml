@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2f5032e-ceb1-4e00-8ccb-b86c70ac04e3" name="Changes" comment="exercicio">
-      <change afterPath="$PROJECT_DIR$/src/Aula5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula5/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula6/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula5.Main">
-    <configuration name="Aula3.ex1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula3.ex1.Main" />
-      <module name="Modulo_4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula3.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula6.Main">
     <configuration name="Aula3.ex2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula3.ex2.Main" />
       <module name="Modulo_4" />
@@ -94,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula6.Main" />
+      <module name="Modulo_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula4.ex2.Main" />
       <module name="Modulo_4" />
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula6.Main" />
         <item itemvalue="Application.Aula5.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Aula4" />
         <item itemvalue="Application.Aula3.ex2.Main" />
-        <item itemvalue="Application.Aula3.ex1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695680886450</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exercicio">
+      <created>1695852751942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695852751942</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
